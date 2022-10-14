@@ -1,0 +1,27 @@
+header{
+    color: red;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+    padding-right: 16px;
+}
+
+footer{
+    margin-top: 16px;
+    border-top: 1px greenyellow solid;
+    color: blue;
+}
+
+div{
+    margin-bottom: 20px;
+}
+
+input{
+    margin-top: 20px;
+}
+
+button{
+       cursor: pointer;
+}
